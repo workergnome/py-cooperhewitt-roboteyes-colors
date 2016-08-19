@@ -14,7 +14,7 @@ setup(
     url='https://github.com/cooperhewitt/py-cooperhewitt-roboteyes-colors',
     install_requires=[
         'roygbiv',
-        'cooperhewitt.swatchbook',
+        'cooperhewitt-swatchbook',
     ],
     packages=packages,
     scripts=[],
